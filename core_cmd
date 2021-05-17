@@ -1,1 +1,2 @@
 dotnet new 项目类型 -o(路径，不写默认当前路径，不写路径后面直接跟项目名) -n(名字)
+https://docs.microsoft.com/zh-cn/dotnet/core/docker/build-container?tabs=windows
